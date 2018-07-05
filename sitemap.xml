@@ -2,37 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://auspicious1123.github.io/2018/07/04/LC-NEW-TEST/</loc>
+    <loc>http://auspicious1123.github.io/books/index.html</loc>
     
-    <lastmod>2018-07-04T21:41:13.236Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://auspicious1123.github.io/tags/index.html</loc>
-    
-    <lastmod>2018-07-04T21:26:26.122Z</lastmod>
+    <lastmod>2018-07-05T01:52:24.945Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://auspicious1123.github.io/categories/index.html</loc>
     
-    <lastmod>2018-07-04T21:26:26.121Z</lastmod>
+    <lastmod>2018-07-05T01:52:24.944Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/tags/index.html</loc>
+    
+    <lastmod>2018-07-05T01:52:24.944Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/2018/05/13/LC-15-3Sum/</loc>
+    
+    <lastmod>2018-07-05T01:52:14.373Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://auspicious1123.github.io/about/index.html</loc>
     
-    <lastmod>2018-07-04T21:26:26.120Z</lastmod>
+    <lastmod>2018-07-05T01:49:41.285Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://auspicious1123.github.io/books/index.html</loc>
+    <loc>http://auspicious1123.github.io/2018/07/04/LC-NEW-TEST/</loc>
     
-    <lastmod>2018-07-04T21:26:26.120Z</lastmod>
+    <lastmod>2018-07-04T21:41:13.236Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>http://auspicious1123.github.io/2018/05/12/LC-1-TwoSum/</loc>
     
     <lastmod>2018-07-04T21:26:26.118Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://auspicious1123.github.io/2018/05/13/LC-15-3Sum/</loc>
-    
-    <lastmod>2018-07-04T21:26:26.117Z</lastmod>
     
   </url>
   
