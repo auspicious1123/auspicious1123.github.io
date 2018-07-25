@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://auspicious1123.github.io/2018/07/25/things-have-to-do/</loc>
+    
+    <lastmod>2018-07-25T16:06:05.104Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/2018/07/24/SWEETBITTER/</loc>
+    
+    <lastmod>2018-07-25T03:16:53.136Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/2018/05/12/LC-1-TwoSum/</loc>
+    
+    <lastmod>2018-07-08T23:19:44.926Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/2018/05/19/LC-5-LongestPalindromicSubstring/</loc>
+    
+    <lastmod>2018-07-08T23:19:41.474Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/2018/05/13/LC-15-3Sum/</loc>
+    
+    <lastmod>2018-07-08T23:19:41.473Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://auspicious1123.github.io/2018/07/08/Schedule/</loc>
     
-    <lastmod>2018-07-08T22:32:37.028Z</lastmod>
+    <lastmod>2018-07-08T23:17:34.146Z</lastmod>
     
   </url>
   
@@ -33,27 +68,6 @@
     <loc>http://auspicious1123.github.io/categories/index.html</loc>
     
     <lastmod>2018-07-05T01:57:38.775Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://auspicious1123.github.io/2018/05/13/LC-15-3Sum/</loc>
-    
-    <lastmod>2018-07-05T01:52:14.373Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://auspicious1123.github.io/2018/05/19/LC-5-LongestPalindromicSubstring/</loc>
-    
-    <lastmod>2018-07-04T21:26:26.119Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://auspicious1123.github.io/2018/05/12/LC-1-TwoSum/</loc>
-    
-    <lastmod>2018-07-04T21:26:26.118Z</lastmod>
     
   </url>
   
