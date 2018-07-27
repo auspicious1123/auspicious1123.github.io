@@ -1,5 +1,5 @@
 ---
-title: 5. Longest Palindromic Substring
+title: "[LeetCode] 5. Longest Palindromic Substring"
 categories: Leetcode
 tags: Leetcode
 date: 2018-05-19 14:26:02

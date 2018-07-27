@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: "[Daily]-Schedule"
 tags: Daily Life
 date: 2018-07-08 17:23:27
 ---
