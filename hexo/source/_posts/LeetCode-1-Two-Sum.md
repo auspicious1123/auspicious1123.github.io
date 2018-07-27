@@ -1,5 +1,5 @@
 ---
-title: 1.Two Sum
+title: "[LeetCode] 1.Two Sum"
 categories: Leetcode
 tags: Leetcode
 date: 2018-05-12 00:38:02

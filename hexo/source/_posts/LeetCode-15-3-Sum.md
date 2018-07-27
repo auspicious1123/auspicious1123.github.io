@@ -1,5 +1,5 @@
 ---
-title: 15. 3 Sum
+title: "[LeetCode] 15. 3 Sum"
 categories: Leetcode
 tags: Leetcode
 date: 2018-05-13 01:08:02
