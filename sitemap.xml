@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://auspicious1123.github.io/about/index.html</loc>
+    <loc>http://auspicious1123.github.io/book/index.html</loc>
     
-    <lastmod>2018-10-07T07:08:04.000Z</lastmod>
+    <lastmod>2018-10-07T07:29:38.114Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/2018/10/07/Sweetbitter/</loc>
+    
+    <lastmod>2018-10-07T07:26:28.845Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/tags/index.html</loc>
+    
+    <lastmod>2018-10-07T07:25:27.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://auspicious1123.github.io/books/index.html</loc>
     
-    <lastmod>2018-10-07T07:01:52.299Z</lastmod>
+    <lastmod>2018-10-07T07:25:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://auspicious1123.github.io/about/index.html</loc>
+    
+    <lastmod>2018-10-07T07:08:04.000Z</lastmod>
     
   </url>
   
@@ -33,13 +54,6 @@
     <loc>http://auspicious1123.github.io/2018/05/19/LeetCode-5-Longest-Palindromic-Substring/</loc>
     
     <lastmod>2018-07-27T03:22:13.583Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://auspicious1123.github.io/tags/index.html</loc>
-    
-    <lastmod>2018-07-05T01:57:50.370Z</lastmod>
     
   </url>
   
