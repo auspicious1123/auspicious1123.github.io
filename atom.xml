@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://auspicious1123.github.io/"/>
-  <updated>2018-10-07T07:26:28.845Z</updated>
+  <updated>2018-07-27T03:22:13.583Z</updated>
   <id>http://auspicious1123.github.io/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>SweetBitter</title>
-    <link href="http://auspicious1123.github.io/2018/10/07/Sweetbitter/"/>
-    <id>http://auspicious1123.github.io/2018/10/07/Sweetbitter/</id>
-    <published>2018-10-07T07:22:04.000Z</published>
-    <updated>2018-10-07T07:26:28.845Z</updated>
-    
-    <content type="html"><![CDATA[<p>This is the page for Sweetbitter.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;This is the page for Sweetbitter.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="Books" scheme="http://auspicious1123.github.io/tags/Books/"/>
-    
-  </entry>
   
   <entry>
     <title>[LeetCode] 5. Longest Palindromic Substring</title>
